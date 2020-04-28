@@ -1,0 +1,4 @@
+DBHOST=localhost
+DBNAME=perl
+DBUSER=root
+DBPASS=admin
